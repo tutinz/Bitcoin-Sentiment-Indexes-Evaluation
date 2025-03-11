@@ -7,9 +7,9 @@ This repository contains materials from our study on the relationships between B
 
 ## Contents
 
-- `matrix1.csv`: ...
-- `matrix2.csv`: ...
-- `BTCSentimentIndexes.ipynb`: Python notebook analyzing the data from the three tables.
+- `matrix1.csv`: comprising Bitcoin prices, Google Trends Index, Wikipedia Searches, Fear and Greed Index, Into the Block Index and Lunar Crush Galaxy score, starts 2021/06/18 ends 2025/01/26 (1314 data).
+- `matrix2.csv`:  with Santiment Index, spanning 2023/03/26-2025/01/26 (673 data).
+- `BTCSentimentIndexes.ipynb`: Python notebook for data analysis.
 
 ## How to Use
 
