@@ -17,5 +17,5 @@ This repository contains materials from our study on the relationships between B
    ```bash
    git clone https://github.com/yourusername/Bitcoin-Sentiment-Indexes-Evaluation.git
 2. Ensure all files are in the same directory.
-3. Open the Python notebook (surveyBitcoinPricePrediction.ipynb) using Jupyter Notebook or JupyterLab to explore the analysis.
+3. Open the Python notebook (BTCSentimentIndexes.ipynb) using Jupyter Notebook or JupyterLab to explore the analysis.
 4. The notebook uses the three tables as input for statistical analysis and insights generation related to Bitcoin Sentiment Indexes Evaluation.
